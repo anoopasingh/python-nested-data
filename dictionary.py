@@ -1,5 +1,5 @@
 #list
-anoopalist = ["Jeff", "Olson", 28, "Brown", "Brown", 5.8, 180, 42, "jolson@upperlinecode.com", "(615)-555-5555"]
+anoopalist = ["Anoopa", "Singh", 29, "Brown", "Brown", 5.8, 180, 42, "jolson@upperlinecode.com", "(615)-555-5555"]
 print(anoopalist[3])
 #dictionary
 anoopadictionary = {"firstname": "Jeff",

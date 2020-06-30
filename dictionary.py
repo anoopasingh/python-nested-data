@@ -1,16 +1,28 @@
+##Dictionary Vs List
 #list
-anoopalist = ["Anoopa", "Singh", 29, "Brown", "Brown", 5.8, 180, 42, "jolson@upperlinecode.com", "(615)-555-5555"]
-print(anoopalist[3])
+anoopa_list = ["Anoopa", "Singh", 29, "Brown", "Black", 5.1, 120, 108, "asingh@upperlinecode.com", "(718)-555-5555"]
+print(anoopa_list[3])
+
 #dictionary
-anoopadictionary = {"firstname": "Jeff",
-    "lastname": "Olson",
-    "age": 28,
+anoopa_dictionary = {
+    "firstname": "Anoopa",
+    "lastname": "Singh",
+    "age": 29,
     "eyecolor": "Brown",
-    "haircolor": "Brown",
-    "height": 5.8,
-    "weight": 180,
-    "lucky_number": 42,
-    "email": "jolson@upperlinecode.com",
-    "phone": "(615)-555-5555"
-}
-print(anoopadictionary)
+    "haircolor": "Black",
+    "height": 5.1,
+    "weight": 120,
+    "lucky_number": 108,
+    "email": "asingh@upperlinecode.com",
+    "phone": "(718)-555-5555"
+    }
+print(anoopa_dictionary)
+
+##Try it here!
+
+
+
+##Your code here!!!
+
+
+
